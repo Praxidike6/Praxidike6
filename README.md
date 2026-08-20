@@ -1,10 +1,10 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Stuart McDonnell 👋
 
 ### 🚀 About Me
 I'm a **[Web Developer]** passionate about building [mention your primary focus, e.g., web applications, AI tools, open-source projects].
 
 - 🔭 I’m currently working on Portfolio 
-- 🌱 I’m currently learning **Astro/Swift*
+- 🌱 I’m currently learning Astro/Swift
 - 💬 Ask me about Developing or redesigning your website.
 - 📫 How to reach me: mcdonnell.stuart@gmail.com
 
