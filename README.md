@@ -3,11 +3,10 @@
 ### 🚀 About Me
 I'm a **[Web Developer]** passionate about building [mention your primary focus, e.g., web applications, AI tools, open-source projects].
 
-- 🔭 I’m currently working on **[Project Name]**
+- 🔭 I’m currently working on Portfolio 
 - 🌱 I’m currently learning **Astro/Swift*
-- 👯 I’m looking to collaborate on **[Type of Projects/Open Source]**
-- 💬 Ask me about **[Topics, e.g., React, Python, UI/UX]**
-- 📫 How to reach me: ** mcdonnell.stuart@gmail.com* **
+- 💬 Ask me about Developing or redesigning your website.
+- 📫 How to reach me: mcdonnell.stuart@gmail.com
 
 ---
 
