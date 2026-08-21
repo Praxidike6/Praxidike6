@@ -1,15 +1,25 @@
-# Hi there, I'm Stuart McDonnell 👋
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1b26&height=220&section=header&text=Stuart%20McDonnell&fontSize=48&fontColor=61dafb&animation=twinkling&desc=Software%20Developer%20%7C%20React%20%7C%20TypeScript%20%7C%20AWS%20Certified&descSize=18&descAlignY=70&descAlign=50" width="100%" alt="Header Banner" />
+</div>
 
-### 🚀 About Me
-I'm a **[Web Developer]** passionate about building [mention your primary focus, e.g., web applications, AI tools, open-source projects].
+<!-- QUICK SOCIAL BADGES -->
+<div align="center">
+  <a href="https://linkedin.com/in/stuart-mcdonnell-762955166">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mcdonnell.stuart@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on Portfolio 
-- 🌱 I’m currently learning Astro/Swift
-- 💬 Ask me about Developing or redesigning your website.
-- 📫 How to reach me: mcdonnell.stuart@gmail.com
+<br/>
 
----
+### 👨‍💻 About Me
 
+```developer-profile
+Full-Stack Web Developer specializing in enterprise-grade web solutions.
+Focused on scalable cloud architecture, modern React ecosystems, and crisp UI/UX.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/stuart-mcdonnell-762955166) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mcdonnell.stuart@gmail.com) 
