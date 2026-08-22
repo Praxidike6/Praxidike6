@@ -5,7 +5,7 @@
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=4455ff&text=Stuart%20McDonnell&reversal=false&textBg=false&fontColor=FAF9F6&fontFamily=Roboto%20Mono" width="100%" >
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=1A202C&text=Stuart%20McDonnell&reversal=false&textBg=false&fontColor=121212&fontFamily=Segoe%20UI" width="100%">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=C62828&text=Stuart%20McDonnell&reversal=false&textBg=false&fontColor=0056B3&fontFamily=Segoe%20UI" width="100%">
   <img alt="Project Logo" src="https://link-to-your-default-image.png">
 </picture>
 </div>
