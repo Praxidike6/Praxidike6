@@ -1,4 +1,15 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=stuart%20mcdonnell&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Web%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<!--<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=334499&text=Stuart%20McDonnell&reversal=false&textBg=false" width="100%" alt="Stuart McDonnell - Web Developer Banner" />
+</div>
+-->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=4455ff&text=Stuart%20McDonnell&reversal=false&textBg=false&fontColor=FAF9F6" width="100%" >
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=4455ff&text=Stuart%20McDonnell&reversal=false&textBg=false&fontColor=121212" width="100%">
+  <img alt="Project Logo" src="https://link-to-your-default-image.png">
+</picture>
+</div>
+
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Praxidike6">
@@ -67,7 +78,7 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" />
 
 </p>
- 
+
 <h3 align="center">DevOps & Cloud</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" />&nbsp;&nbsp;
@@ -119,3 +130,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
 
+<style>
+  /* By default, hide the dark-only content */
+  .dark-only {
+    display: none;
+  }
+
+  /* When the system is set to dark mode, flip the visibility */
+  @media (prefers-color-scheme: dark) {
+    .light-only {
+      display: none;
+    }
+    .dark-only {
+      display: block;
+    }
+  }
+</style>
