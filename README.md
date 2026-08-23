@@ -108,7 +108,7 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/stuart-mcdonnell-762955166">
+  <a href="https://www.linkedin.com/in/stuart-mcdonnell-762955166">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://wa.me/405200998">
@@ -117,7 +117,7 @@
   <a href="mailto:mcdonnell.stuart@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.hooloovoo.com.au">
+  <a href="https://www.hooloovoo.com.au">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
   </a>
 </p>
