@@ -1,7 +1,4 @@
-<!--<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&height=300&color=334499&text=Stuart%20McDonnell&reversal=false&textBg=false" width="100%" alt="Stuart McDonnell - Web Developer Banner" />
-</div>
--->
+
 <div align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=300&color=4455ff&text=Stuart%20McDonnell&reversal=false&textBg=false&fontColor=FAF9F6&fontFamily=Roboto%20Mono" width="100%" >
@@ -47,7 +44,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" />&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" />
 
 </p>
@@ -65,7 +62,11 @@
 <h3 align="center">Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
+<img src="https://cdn.simpleicons.org/express/FFFFFF" alt="Express.js" width="40" />
+
+
+
+
 
 </p>
 
@@ -130,19 +131,4 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
 </div>
 
-<style>
-  /* By default, hide the dark-only content */
-  .dark-only {
-    display: none;
-  }
 
-  /* When the system is set to dark mode, flip the visibility */
-  @media (prefers-color-scheme: dark) {
-    .light-only {
-      display: none;
-    }
-    .dark-only {
-      display: block;
-    }
-  }
-</style>
