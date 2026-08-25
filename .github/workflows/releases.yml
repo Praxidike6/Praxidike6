@@ -1,0 +1,13 @@
+name: Update Recent Releases
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs daily
+  workflow_dispatch: # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: release-drafter/release-drafter@v5 # Or a custom action like 'gautamkrishnar/blog-post-workflow' tuned for GitHub releases RSS
