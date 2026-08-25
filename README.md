@@ -107,6 +107,17 @@
   </a>
 </p>
 
+<!-- RELEASES:START -->
+<p align="center">
+  <a href="https://github.com/Praxidike6/PomoFloating/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Praxidike6/PomoFloating?style=flat-square&color=a371f7" alt="Latest Release" />
+  </a>
+  <a href="https://github.com/Praxidike6/PomoFloating/releases">
+    <img src="https://img.shields.io/github/downloads/Praxidike6/PomoFloating/total?style=flat-square&color=00FFFF" alt="Total Downloads" />
+  </a>
+</p>
+<!-- RELEASES:END -->
+
 ## 🔗 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/stuart-mcdonnell-762955166">
