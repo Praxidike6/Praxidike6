@@ -108,14 +108,38 @@
 </p>
 
 <!-- RELEASES:START -->
-<p align="center">
+<div align="center">
+
+  <!-- Main Showcase Header Badge -->
   <a href="https://github.com/Praxidike6/PomoFloating/releases/latest">
-    <img src="https://img.shields.io/github/v/release/Praxidike6/PomoFloating?style=flat-square&color=a371f7" alt="Latest Release" />
+    <img src="https://img.shields.io/badge/🚀_Featured_Release-Pomodoro_Timer_for_macOS-a371f7?style=for-the-badge&logo=apple&logoColor=white" alt="Featured Release: PomoFloating" />
   </a>
-  <a href="https://github.com/Praxidike6/PomoFloating/releases">
-    <img src="https://img.shields.io/github/downloads/Praxidike6/PomoFloating/total?style=flat-square&color=00FFFF" alt="Total Downloads" />
-  </a>
-</p>
+
+  <br />
+  <br />
+
+  <!-- App Description & Platform Badges -->
+  <h3>⏱️ PomoFloating for macOS</h3>
+  <p><i>A sleek, minimal floating Pomodoro timer designed for distraction-free focus.</i></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/platform-macOS-lightgrey?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+    <a href="https://github.com/Praxidike6/PomoFloating/releases/latest">
+      <img src="https://img.shields.io/github/v/release/Praxidike6/PomoFloating?style=flat-square&color=a371f7&label=latest%20version" alt="Latest Release" />
+    </a>
+    <a href="https://github.com/Praxidike6/PomoFloating/releases">
+      <img src="https://img.shields.io/github/downloads/Praxidike6/PomoFloating/total?style=flat-square&color=00FFFF&label=downloads" alt="Total Downloads" />
+    </a>
+  </p>
+
+  <!-- Call to Action Download Button -->
+  <p>
+    <a href="https://github.com/Praxidike6/PomoFloating/releases/latest">
+      <img src="https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Download PomoFloating" />
+    </a>
+  </p>
+
+</div>
 <!-- RELEASES:END -->
 
 ## 🔗 Connect with Me
