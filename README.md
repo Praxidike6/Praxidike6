@@ -7,6 +7,22 @@
 </picture>
 </div>
 
+<div align="center">
+
+  <br />
+  
+
+  <p>
+  <a href="https://www.usethefalseluke.com" target="_blank">
+      <img src="https://img.shields.io/badge/⚔️_Visit_My_Portfolio_⚔️-usethefalseluke.com-5c3c8b?style=for-the-badge" alt="Visit My Portfolio" />
+    </a>
+</p>
+<p>
+    <i>👋 "These are not the bugs you are looking for..."</i>
+  </p>
+  <br />
+ 
+</div>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=Praxidike6">
